@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Source Serif Pro', serif;
+}
+
+.cabecalho {
+    background-color: #DAA520;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 7px 0;
+}
+
+.img1-imagem{
+    width: 20%;
+}
+
+.meioambiente{
+    background-color:  #DAA520;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 100px 0;
+}
+
+.meioambiente2{
+    background-color:  #DAA520;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 100px 0;
+}
+
+.meioambiente3{
+    background-color:  #DAA520;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 100px 0;
+}
+
+.meioambiente4{
+    background-color:  #DAA520;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 100px 0;
+}
+
+.meioambiente5{
+    background-color:  #DAA520;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 100px 0;
+}
+
+.meioambiente6{
+    background-color:  #DAA520;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 100px 0;
+}
+
+.meioambiente7{
+    background-color:  #DAA520;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 100px 0;
+}
+
+.meioambiente8{
+    background-color:  #DAA520;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 100px 0;
+}
+
+.meioambiente-div-conteudo{
+    width: 20%;
+}
+
+.rodape{
+    background-color: #DAA520;
+    text-align: center;
+}
